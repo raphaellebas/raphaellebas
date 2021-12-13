@@ -1,6 +1,6 @@
 ![Raphaël's Github stats](https://github-readme-stats.vercel.app/api?username=raphaellebas&show_icons=true&theme=radical)
 
- 🌱 I’m currently learning HTML, CSS, JavaScript
+ 🌱 I’m currently learning HTML, CSS, JavaScript with Simplon
 <!--
 **raphaellebas/raphaellebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
