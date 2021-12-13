@@ -1,4 +1,4 @@
-[![Raphaël's github stats](https://github-readme-stats.vercel.app/api?username=raphaellebas)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
  🌱 I’m currently learning HTML, CSS, JavaScript
 <!--
