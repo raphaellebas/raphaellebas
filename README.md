@@ -9,7 +9,7 @@ Here you can find my stats on Github and others stuff.</p>
 <div class="stuff">
 <p>My most languages used</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellebas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<p>My repo showcase</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellebas&layout=compact&theme=radical)](https://github.com/raphaellebas)<p>My repo showcase</p>
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=raphaellebas&repo=portfolio&theme=radical)](https://github.com/raphaellebas/portfolio)
 </div>
