@@ -1,5 +1,5 @@
 [![Raphaël's github stats](https://github-readme-stats.vercel.app/api?username=raphaellebas)](https://github.com/anuraghazra/github-readme-stats)
-![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphaellebas&show_icons=true)
 
  🌱 I’m currently learning HTML, CSS, JavaScript
 <!--
